@@ -1,4 +1,4 @@
-# SteamChecker
+# Steam Checker
 This is a steam account checker that uses https / http proxies to check and store the logs into a file.
 
 At the moment, there is still work to be done with it as it is not logging correctly but everything currently is working except sanity checks on if the log is actually valid. It can be fixed fairly easily but I just want to move on to a different project so I said I would post it.

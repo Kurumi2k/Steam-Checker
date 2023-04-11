@@ -3,6 +3,9 @@ This is a steam account checker that uses https / http proxies to check and stor
 
 At the moment, there is still work to be done with it as it is not logging correctly but everything currently is working except sanity checks on if the log is actually valid. It can be fixed fairly easily but I just want to move on to a different project so I said I would post it.
 
+If you don't know where to find proxies, proxyscrape has an option for a free proxylist. It isn't very good but thats what free will get you.
+If you don't know where to find logs, I suggest looking around for autoshops selling them in bulk or a log seller.
+
 ## Cloning
 ```bash
 git clone --recursive https://github.com/Kurumi2k/SteamChecker.git
